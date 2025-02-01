@@ -34,4 +34,13 @@
 </br>
 </br>
 
+## 📅 진행상황
+| 회차  | 김근범 | 이용구 |
+|:----:|:----:|:----:|
+| 1회차 | [생각중독](https://github.com/KOMBUCHA-GRANDE/book-hit-bak-hit/blob/main/1%ED%9A%8C%EC%B0%A8/%EC%83%9D%EA%B0%81%EC%A4%91%EB%8F%85.md) | [지금 하지 않으면 언제 하겠는가](https://github.com/KOMBUCHA-GRANDE/book-hit-bak-hit/blob/main/1%ED%9A%8C%EC%B0%A8/%EC%A7%80%EA%B8%88%20%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9C%BC%EB%A9%B4%20%EC%96%B8%EC%A0%9C%20%ED%95%98%EA%B2%A0%EB%8A%94%EA%B0%80.md)  |
+| ⏳2회차| 코리안 탈무드 | 라셀라스 |
+| 3회차 |      |      |
+| 4회차 |      |      |
+| 5회차 |      |      |
+
 즐거운 독서 되세요! 📖✨
