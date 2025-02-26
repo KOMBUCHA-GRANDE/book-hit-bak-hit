@@ -39,7 +39,7 @@
 |:----:|:----:|:----:|
 | 1회차 | [생각중독](https://github.com/KOMBUCHA-GRANDE/book-hit-bak-hit/blob/main/1%ED%9A%8C%EC%B0%A8/%EC%83%9D%EA%B0%81%EC%A4%91%EB%8F%85.md) | [지금 하지 않으면 언제 하겠는가](https://github.com/KOMBUCHA-GRANDE/book-hit-bak-hit/blob/main/1%ED%9A%8C%EC%B0%A8/%EC%A7%80%EA%B8%88%20%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9C%BC%EB%A9%B4%20%EC%96%B8%EC%A0%9C%20%ED%95%98%EA%B2%A0%EB%8A%94%EA%B0%80.md)  |
 | ⏳2회차| [코리안 탈무드](https://github.com/KOMBUCHA-GRANDE/book-hit-bak-hit/blob/main/2%ED%9A%8C%EC%B0%A8/%EC%BD%94%EB%A6%AC%EC%95%88%20%ED%83%88%EB%AC%B4%EB%93%9C.md) | [라셀라스](https://github.com/KOMBUCHA-GRANDE/book-hit-bak-hit/blob/main/2%ED%9A%8C%EC%B0%A8/%EB%9D%BC%EC%85%80%EB%9D%BC%EC%8A%A4.md) |
-| 3회차 |      |      |
+| 3회차 | 책은 도끼다 |      |
 | 4회차 |      |      |
 | 5회차 |      |      |
 
